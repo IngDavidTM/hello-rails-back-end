@@ -31,11 +31,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-react-back-end <a name="about-project"></a>
+# 📖 Hello-rails-back-end <a name="about-project"></a>
 
-**Hello-react-back-end** is the backend part of a full-stack application built with rails as an api and react for the front end. This app show you a random message every time that you reload the page
+**Hello-rails-back-end** is the backend part of a full-stack application built with rails as an api and react for the front end. This app show you a random message every time that you reload the page
 
-Follow this [Link](https://github.com/Peter1907/hello-rails-back-end) for the backend repo
+Follow this [Link](https://github.com/IngDavidTM/hello-react-front-end) for the frontend repo
 
 ## 🛠 Built With <a name="built-with"></a>
 
